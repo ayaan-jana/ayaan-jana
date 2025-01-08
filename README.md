@@ -1,4 +1,4 @@
-# 👋 Hi there!
+<h1 align="centre">👋 Hi there! I'm Ayan Jana</h1>
 
 - I am currently pursuing my B.Tech In Computer Science in the field of IOT. I am a fresher. I am currently in 3rd year. I want to explore the fields and do internships in web development. I am a quick learner. I have knowledge in HTML, ReactJS, Javascript, Database Management, CSS, C and so on. I have good communication skills. I have the ability to handle pressure. I perform well in team works. 
 
