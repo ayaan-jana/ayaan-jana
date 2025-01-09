@@ -9,7 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayaan-jana&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan-jana&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayaan-jana&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayaan-jana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
